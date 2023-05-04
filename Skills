@@ -1,0 +1,23 @@
+<div class="skills">
+        <h2 class="h2-skills">
+          My Skills.
+        </h2>
+      <div class="skill-row">
+        <img src="./images/computer.png" alt="image of a computer" class="computer-image">
+        <h3>Things I can do.....</h3>
+        <p>- I can create a comprehensive company website</p>
+        <p>- Backend Developer tools i can use:NODEJS,POSTGRESQL,POSTMAN,MONGODB(Intermediate skill level)</p>
+        <p>- Front End tools i can use:HTML,CSS,BOOTSTRAP(Intermediate Skill Level)</p>
+        <p>- Social Media Management</p>
+        <p>- Digital Marketing</p>
+        <p>-Content Creation</p>
+      </div>
+      <div class="skill-row-2">
+        <img src="./images/cell tower.png" alt="image of a cell tower" class="cell-tower">
+        <h3>Projects i have worked on can be found on my github repositories.....</h3>
+        <p>- website development for Save the dignity (NGO).</p>
+        <p>- Social Media Management and Blog Promotion for Cabbi foods Limited</p>
+     </div>
+     </div>
+     </section>
+     <hr>
