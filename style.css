@@ -180,3 +180,9 @@
   display: flex;
   flex-direction: column;
 }
+
+@media screen and (min-width: 480px) {
+  .about-container {
+    flex: none;
+  }
+}
